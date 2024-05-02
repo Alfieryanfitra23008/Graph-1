@@ -1,4 +1,4 @@
-class Peta:
+class Peta: 
   def __init__(self):
     self.cityList = {}
 
