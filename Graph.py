@@ -44,7 +44,7 @@ def hapusJalan(self,kota1,kota2):
 
 petaJawaTimur = Peta()
 petaJawaTimur.tambahkanKota("Surabaya")
-PetaJawaTimur.tambahkanKota("Lamongan")
+petaJawaTimur.tambahkanKota("Lamongan")
 petaJawaTimur.tambahkanKota("Bojonegoro")
 petaJawaTimur.tambahkanKota("Ngawi")
 petaJawaTimur.tambahkanKota("Madiun")
